@@ -10,17 +10,19 @@ Here you can find relevant information related with the Systematic Mapping Revie
 4. [Data Extraction Strategy](#criterios)
 5. [Clasification of QoE metrics](#clasificacion)
 
-
+# Planning 
 ## 1. Search Protocol {#Protocolo}
 
 The purpose aim of this research is:
 ```markdown
-To obtain, classify, analyze and synthetize the existing metrics about QoE for cloud services. 
+To obtain, classify, analyze and synthetize the existing metrics 
+about QoE for cloud services. 
 ```
 
 The research question is: 
 ```markdown
-Which metrics are proposed to evaluate the QoE in cloud services and how have them being used?
+Which metrics are proposed to evaluate the QoE in cloud services and 
+how have them being used?
 ```
 
 El estudio de la población y la intervención es el siguiente:
@@ -33,7 +35,7 @@ Finally, the search string selected is shown below:
 
 Concept	| Alternative Terms or Synonyms
 ------------ | -------------
-Measure	| (metric* OR measur*)) AND
+Measure	| ((metric* OR measur*) AND
 Quality 	| (QoE OR "quality of experience" OR "quality model" OR "evaluation model" OR "assessment model" OR "quality in cloud" OR "quality of cloud") AND
 Cloud	| (cloud*))
 
@@ -52,6 +54,7 @@ SpringerLink| (((metric* OR measur*)) AND (QoE OR "quality of experience"  OR "q
 
 [Home](#inicio)
 
+# Conducting
 ## 3. Primary Studies {#estudios}
 Here we list the papers selected in the systematic mapping.
 
@@ -106,7 +109,7 @@ Type of Service	|Software as a Service (SaaS), Platform as a Service (PaaS), Inf
 Stakeholder viewpoint	|Cloud Service Consumer (CSC), Cloud Service Provider (CSP), Cloud Service Broker (CSB), Cloud Service Developer (CSD), Final Client .
 Validation	|Theory validation, Empiric validation, No validation.
 
-
+# Reporting
 ## 5. Clasification of QoE metrics {#clasificacion}
 In this subsection, is shown the results' metrics obtained from primary studies. Their classification was done using the data extraction criteria. 
 
