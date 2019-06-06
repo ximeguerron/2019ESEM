@@ -24,11 +24,12 @@ Which metrics are proposed to evaluate the QoE in cloud services and
 how have them being used?
 ```
 
-El estudio de la población y la intervención es el siguiente:
--	**Población:** Artículos científicos que presentan métricas para la evaluación de la calidad interna y externa de los servicios cloud.
--	**Intervención:** Métricas de calidad que se utilizan para evaluar las características de calidad de los servicios cloud.
--	**Resultados:** Análisis de un conjunto de métricas que sirvan de base para la elaboración de un modelo de calidad de servicios cloud alineado con la ISO/IEC 25010 y basado en la literatura.
--	**Contexto:** Evaluación de calidad de los servicios cloud que proponen métricas para medir la calidad del servicio (QoS – Quality of Service). 
+The study of the population and the intervention is as follows:
+
+- **Population**: Research articles that present metrics for the evaluation of the quality in use of cloud services.
+- **Intervention**: Quality metrics used to evaluate the quality characteristics of cloud services.
+- **Results**: Analysis of a set of metrics that serve as the basis for the development of a cloud services quality model aligned with the ISO / IEC 25010 and based on the literature.
+- **Context**: Quality assessment of cloud services that propose metrics to measure quality in use (QoE - Quality of Experience).
 
 Finally, the search string selected is shown below:
 
