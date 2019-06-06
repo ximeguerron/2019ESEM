@@ -1,6 +1,5 @@
-# Welcome {#inicio}
-
-Here you can find relevant information related with the Systematic Mapping Review of Quality of experience metrics for cloud services. The research methodology and results are detailed in the next sections.
+# Welcome 
+Here you can find relevant information attach to the article the **_Quality of experience metrics for cloud services: A systematic mapping_**. The research methodology and results are detailed in the next sections.
 
 ## Index
 
@@ -108,10 +107,21 @@ Validation	|Theory validation, Empiric validation, No validation.
 ## 5. Clasification of QoE metrics {#clasificacion}
 In this subsection, is shown the results' metrics obtained from primary studies. Their classification was done using the data extraction criteria. 
 
-<a href ="./files/Appendix1.ClassificationMetrics.pdf">  Apéndice 1 </a>
+<a href ="./Files/Appendix1.ClassificationMetrics.pdf">  Apéndice 1 </a>
 
+**Acknowledgments**
+
+The work of X. Guerrón is partially supported by Universidad Central del Ecuador.
 
 ## Support or Contact 
+
+Information to contact the authors 
+- Ximena Guerrón, xguerron@uce.edu.ec,xiguesan@doctor.upv.es
+- Silvia Abrahão, sabrahao@dsic.upv.es
+- Emilio Insfran, einsfran@dsic.upv.es,
+- Marta Fernández-Diego, marferdi@omp.upv.es
+- Fernando González-Ladrón-de-Guevara, fgonzal@omp.upv.es
+
 Having trouble with Pages or any questions or suggestions ? Please, contact us by email xiguesan@doctor.upv.es 
 
 
