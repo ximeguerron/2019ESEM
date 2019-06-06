@@ -52,8 +52,6 @@ ACM Digital Library|((acmdlTitle:metric* OR acmdlTitle:measur*) AND (acmdlTitle:
 ScienceDirect|TITLE-ABSTR-KEY((((metric* OR measur*)) AND (QoE OR {quality of experience} OR {quality model} OR {evaluation model} OR {quality in cloud} OR {quality of cloud}) AND (cloud*))) |Title, abstract and keywords|Pub-date > 2005. Content type: Journal.
 SpringerLink| ((metric* OR measur*) AND (QoE OR "quality of experience"  OR "quality model" OR "evaluation model" OR "quality in cloud" OR "quality of cloud") AND (cloud*))|Full text 	|Content Type: Article. Discipline: Computer Science Language: English.
 
-[Home](#inicio)
-
 # Conducting
 ## 3. Primary Studies {#estudios}
 Here we list the papers selected in the systematic mapping.
@@ -94,9 +92,6 @@ S31	| Zheng, X., Martin, P., & Brohman, K. (2013). Cloud Service Negotiation: A 
 S32	| Zheng, X., Martin, P., Brohman, K., & Xu, L. D. (2014). CLOUDQUAL: A Quality Model for Cloud Services. IEEE Transactions on Industrial Informatics, 10(2), 1527–1536. http://doi.org/10.1109/TII.2014.2306329
 S33	| Zhou, P., Wang, Z., Li, W., & Jiang, N. (2015). Quality Model of Cloud Service. In High Performance Computing and Communications (HPCC), 2015 IEEE 7th International Symposium on Cyberspace Safety and Security (CSS), 2015 IEEE 12th International Conferen on Embedded Software and Systems (ICESS), 2015 IEEE 17th International Conference on (pp. 1418–1423). http://doi.org/10.1109/HPCC-CSS-ICESS.2015.134
 
-
-[Home](#inicio)
-
 ## 4. Data Extraction Strategy {#criterios}
 In this subsection, we present the data extraction criteria for classifying the collected metrics of quality of experience at cloud services. Each criterion has its possible options detailed.
 
@@ -113,11 +108,11 @@ Validation	|Theory validation, Empiric validation, No validation.
 ## 5. Clasification of QoE metrics {#clasificacion}
 In this subsection, is shown the results' metrics obtained from primary studies. Their classification was done using the data extraction criteria. 
 
-<a href ="./files/Apendice1.ClasificacionMetricas.pdf">  Apéndice 1 </a>
+<a href ="./files/Appendix1.ClassificationMetrics.pdf">  Apéndice 1 </a>
 
 
 ## Support or Contact 
 Having trouble with Pages or any questions or suggestions ? Please, contact us by email xiguesan@doctor.upv.es 
 
-[Home](#inicio)
+
 
