@@ -101,8 +101,8 @@ Quality Characteristic	|Effectiveness, Efficiency, Satisfaction, Freedom from ri
 Lifecycle Phase |	Requirements, Acquisition, Development, Integration, Operation, Retirement [6]
 Artifact	|Cloud service Specification, cloud service Architecture, cloud Service.
 Type of Service	|Software as a Service (SaaS), Platform as a Service (PaaS), Infraestructure as a Service (IaaS).
-Stakeholder viewpoint	|Cloud Service Consumer (CSC), Cloud Service Provider (CSP), Cloud Service Broker (CSB), Cloud Service Developer (CSD), Final Client .
-Validation	|Theory validation, Empiric validation, No validation.
+Stakeholder viewpoint	|Cloud Service Consumer (CSC), Cloud Service Provider (CSP), Cloud Service Broker (CSB), Cloud Service Developer (CSD), End-user (USE) .
+Validation process	|Theory validation, Empiric validation, No validation.
 
 # Reporting
 ## 5. Clasification of QoE metrics {#clasificacion}
