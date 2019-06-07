@@ -110,20 +110,10 @@ In this subsection, is shown the results' metrics obtained from primary studies.
 
 <a href ="./Files/Appendix1.ClassificationMetrics.pdf">  Apéndice 1 </a>
 
-**Acknowledgments**
-
-The work of X. Guerrón is partially supported by Universidad Central del Ecuador.
-
 ## Support or Contact 
 
-Information to contact the authors 
-- Ximena Guerrón, xguerron@uce.edu.ec,xiguesan@doctor.upv.es
-- Silvia Abrahão, sabrahao@dsic.upv.es
-- Emilio Insfran, einsfran@dsic.upv.es,
-- Marta Fernández-Diego, marferdi@omp.upv.es
-- Fernando González-Ladrón-de-Guevara, fgonzal@omp.upv.es
+Having trouble with Pages or any questions or suggestions ? Please, contact us by email 
 
-Having trouble with Pages or any questions or suggestions ? Please, contact us by email xiguesan@doctor.upv.es 
 
 
 
