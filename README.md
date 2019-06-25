@@ -1,5 +1,5 @@
 # Welcome 
-In this site, you can find relevant information attach to the article the **_Quality of experience metrics for cloud services: A systematic mapping_**. The research methodology and results are detailed in the next sections.
+In this site, you can find relevant information attached to the article the **_Quality of experience metrics for cloud services: A systematic mapping_**. The research methodology and results are detailed in the next sections.
 
 ## Index
 
@@ -14,14 +14,14 @@ In this site, you can find relevant information attach to the article the **_Qua
 
 The purpose aim of this research is:
 ```markdown
-To obtain, classify, analyze and synthetize the existing metrics 
+To obtain, classify, analyze and synthesize the existing metrics 
 about QoE for cloud services. 
 ```
 
 The research question is: 
 ```markdown
 Which metrics are proposed to evaluate the QoE in cloud services and 
-how have them being used?
+how have them been used?
 ```
 
 The study of the population and the intervention is as follows:
