@@ -1,5 +1,5 @@
 # Welcome 
-Here you can find relevant information attach to the article the **_Quality of experience metrics for cloud services: A systematic mapping_**. The research methodology and results are detailed in the next sections.
+In this site, you can find relevant information attach to the article the **_Quality of experience metrics for cloud services: A systematic mapping_**. The research methodology and results are detailed in the next sections.
 
 ## Index
 
@@ -54,7 +54,7 @@ SpringerLink| ((metric* OR measur*) AND (QoE OR "quality of experience"  OR "qua
 
 # Conducting
 ## 3. Primary Studies {#estudios}
-Here we list the papers selected in the systematic mapping.
+The list of selected publications in the systematic mapping is below. Also, the information used to evaluate the quality assessment of them.
 
 Num. | Primary Studies | Year | Citations
 ------------ | ------------- | ------------- | -------------
